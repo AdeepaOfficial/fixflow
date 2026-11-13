@@ -1,0 +1,15 @@
+[ {
+  "usageId" : 1,
+  "jobId" : 1,
+  "partId" : 1,
+  "quantity" : 1,
+  "sellingPriceAtTime" : 22500.0,
+  "dateUsed" : "2026-11-11 14:30:00"
+}, {
+  "usageId" : 2,
+  "jobId" : 2,
+  "partId" : 2,
+  "quantity" : 1,
+  "sellingPriceAtTime" : 18000.0,
+  "dateUsed" : "2026-11-08 10:15:00"
+} ]
